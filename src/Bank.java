@@ -5,6 +5,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class Bank implements Runnable{
+//    test
     String name;
     int resource;
     int remainResouce;
