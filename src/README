@@ -1,0 +1,7 @@
+erlang
+1 use money:start() to run the project.
+
+
+Java
+1 Master.java contains the main() function.
+2 Path: put the bank.txt and customer.txt in the src file, input path is "src/banks.txt".
